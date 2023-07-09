@@ -4,7 +4,7 @@ Esse desafio consiste em desenvolver um site com grid de blog com fotos. O proje
 ## Deploy
 
 Para fazer o deploy desse projeto rode <br>
-[![codesandbox](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://h64hgv.csb.app/)
+[![codesandbox](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://csb-h64hgv.netlify.app/)
 
 ## Demonstração
 
